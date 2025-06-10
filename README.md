@@ -10,7 +10,7 @@ The application uses specific "Factory" classes to create "Reciter" objects, dec
 
 ---
 
-## 🚀 Features
+## Features
 
 -   **Factory Method Pattern:** A clear and practical implementation of the creational design pattern.
 -   **Polymorphism:** Uses abstract base classes and virtual functions to handle different types of reciters.
@@ -20,7 +20,7 @@ The application uses specific "Factory" classes to create "Reciter" objects, dec
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 The project is organized into the following directories:
 
@@ -34,7 +34,7 @@ The project is organized into the following directories:
 
 ---
 
-## ⚙️ How to Build and Run
+## How to Build and Run
 
 Follow these steps to clone, build, and run the project on your local machine.
 
@@ -84,7 +84,7 @@ Make sure you have the following tools installed:
 
     You should see an output like this:
     ```
-    🕋 Quran Reciter Selector App (Factory Method Demo) 🕌
+    Quran Reciter Selector App (Factory Method Demo) 
 
     Client: Selecting reciter - Sheikh Mishary Rashid Alafasy.
     Reciting Surah Al-Fatiha, Ayah 1 - Style: Mishary Rashid Alafasy (Clear, Melodious Articulation).
