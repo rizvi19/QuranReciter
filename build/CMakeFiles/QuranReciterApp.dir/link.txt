@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/QuranReciterApp.dir/src/main.cpp.o -o QuranReciterApp 

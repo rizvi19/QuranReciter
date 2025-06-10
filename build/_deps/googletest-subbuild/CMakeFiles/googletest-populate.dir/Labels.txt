@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

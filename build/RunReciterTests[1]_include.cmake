@@ -1,0 +1,5 @@
+if(EXISTS "/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/RunReciterTests[1]_tests.cmake")
+  include("/home/shahriar-rizvi/Work/GoogleTest/Assignment/QuranReciter/build/RunReciterTests[1]_tests.cmake")
+else()
+  add_test(RunReciterTests_NOT_BUILT RunReciterTests_NOT_BUILT)
+endif()
